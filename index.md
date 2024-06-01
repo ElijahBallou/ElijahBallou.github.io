@@ -19,7 +19,9 @@ the Computer & Information Science & Engineering Department at the University of
 where he leads the Computing for Social Good Lab.
 
 ## About My Project
-### Prime - Voting System
+Prime - Voting System
+
+text here!
 
 Project description goes here.
 
