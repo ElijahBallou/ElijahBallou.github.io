@@ -18,7 +18,7 @@ Mentor info goes here.
 
 Project description goes here.
 
-## Week Progress Report
+## Weekly Progress Report
 [My Weekly Report](_posts/week1.md)
 
 
