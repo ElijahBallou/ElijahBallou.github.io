@@ -14,7 +14,7 @@ an artist (draw & paint), and also like to be alone most of the time to reflect.
 
 ## About My Mentor
 
-Dr. Juan E. Gilbert,is the Andrew Banks Family Preeminence Endowed Professor and Chair of 
+Dr. Juan E. Gilbert, is the Andrew Banks Family Preeminence Endowed Professor and Chair of 
 the Computer & Information Science & Engineering Department at the University of Florida 
 where he leads the Computing for Social Good Lab.
 
