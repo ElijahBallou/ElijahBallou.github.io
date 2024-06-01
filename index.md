@@ -8,21 +8,20 @@ title: Summer 2020 DREU Project Site
 
 ## About Me
 
-My info goes here.
+My name is Elijah Ballou, I am sophomore computer science major that dabbles in 
+game design and virutal reality.I enjoy music in almost all genres, I am a musician,
+an artist (draw & paint), and also like to be alone most of the time to reflect
 
 ## About My Mentor
 
-Mentor info goes here.
+Dr. Jauan E. Gilbert,is the Andrew Banks Family Preeminence Endowed Professor and Chair of 
+the Computer & Information Science & Engineering Department at the University of Florida 
+where he leads the Computing for Social Good Lab.
 
 ## About My Project
 
 Project description goes here.
 
-## Weekly Progress Report
-[My Weekly Report](_posts/2020-06-01-week1.md)
-
-
-## My Final Project Report
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
