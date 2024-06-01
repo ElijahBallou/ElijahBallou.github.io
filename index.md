@@ -19,7 +19,7 @@ Mentor info goes here.
 Project description goes here.
 
 ## Weekly Progress Report
-[My Weekly Report](_posts/week1.md)
+[My Weekly Report](_posts/2020-06-01-week1.md)
 
 
 ## My Final Project Report
