@@ -22,7 +22,7 @@ Project description goes here.
 [My Weekly Report](_posts/week1.md)
 
 
-
+## My Final Project Report
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
