@@ -18,6 +18,11 @@ Mentor info goes here.
 
 Project description goes here.
 
+## Week Progress Report
+[My Weekly Report](_posts/week1.md)
+
+
+
 [My Final Report](files/finalreport.pdf)
 
 ## My Blog
