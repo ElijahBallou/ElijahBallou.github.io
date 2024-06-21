@@ -18,6 +18,8 @@ Dr. Juan E. Gilbert, is the Andrew Banks Family Preeminence Endowed Professor an
 the Computer & Information Science & Engineering Department at the University of Florida 
 where he leads the Computing for Social Good Lab.
 
+Professional website: [https://www.juangilbert.com/index.html](url)
+
 ## About My Project
 Prime III - Voting System
 
