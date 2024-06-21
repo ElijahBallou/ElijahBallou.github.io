@@ -23,11 +23,6 @@ Prime III - Voting System
 
 Prime III is a mobile voting system designed to allow users to vote from anywhere, breaking away from the constraints of traditional voting locations. Developed to bridge the gap between voter trust and technological innovation, Prime III enhances traditional voting methods while aiming to revolutionize the mobile voting experience. The system is designed to be accessible to all users, including those who require special accommodations, ensuring inclusivity and ease of use for everyone.
 
-Project description goes here.
-
-
-
-
 
 [My Final Report](files/finalReport.md)
 
